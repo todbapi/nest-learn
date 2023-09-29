@@ -1,0 +1,10 @@
+POST http://localhost:3000/store
+content-type: application/json
+
+{
+    "name": "Coco Cat",
+    "jobs": [{"title": "jump", "position": "stage 1"}, {"title": "run", "position": "stage 4"}]
+}
+###
+
+GET http://localhost:3000/get
