@@ -2,8 +2,8 @@ POST http://localhost:3000/store
 content-type: application/json
 
 {
-    "name": "Coco Cat",
-    "jobs": [{"title": "jump", "position": "stage 1"}, {"title": "run", "position": "stage 4"}]
+    "name": "Coco1 Dog",
+    "jobs": [{"title": "jumpp", "position": "stage 1"}, {"title": "runn", "position": "stage 4"}]
 }
 ###
 
